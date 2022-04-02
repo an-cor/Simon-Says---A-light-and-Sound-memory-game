@@ -4,7 +4,7 @@ Submitted by: **Angel Coronel**
 
 Time spent: **6.5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/zenith-dynamic-insect
 
 ## Required Functionality
 
